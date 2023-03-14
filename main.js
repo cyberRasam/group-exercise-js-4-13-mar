@@ -65,10 +65,10 @@ class Deque {
   }
 }
 
-let dq = new Deque();
+// let dq = new Deque();
 
-dq.addFirst(10).addFirst(20).addLast(30);
+// dq.addFirst(10).addFirst(20).addLast(30);
 
-while (dq.size() > 0) {
-  console.log(dq.popLast());
-}
+// while (dq.size() > 0) {
+//   console.log(dq.popLast());
+// }
